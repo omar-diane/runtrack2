@@ -10,7 +10,7 @@
 <?php
 $boolean = true;
 $integer = 0x1A;
-$string = "Chaîne de caractère"
+$string = "Chaîne de caractère";
 $float = 1.654; //Contient les nombres décimaux à virgule
 ?>
  </head>
