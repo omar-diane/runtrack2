@@ -1,0 +1,1 @@
+SELECT prenom, nomn, naissance FROM etudiants WHERE naissance = 1998 AND 2018;

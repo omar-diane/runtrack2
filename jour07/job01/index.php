@@ -14,8 +14,6 @@ session_start();
 
 <?php
 
-
-
 if (!isset( $_SESSION['nbvisites'] ) ) {
 $_SESSION['nbvisites']=0;}
 else{ 

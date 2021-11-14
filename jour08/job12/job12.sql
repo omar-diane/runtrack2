@@ -1,0 +1,1 @@
+SELECT * FROM 'salles' WHERE capacite = 100,80,50,5,5,4;
